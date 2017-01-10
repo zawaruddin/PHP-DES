@@ -3,7 +3,7 @@
 	Class	: DataEncryptionStandard.php 
 	Date	: 11 Dec 2016
 	Author	: Moch. Zawaruddin Abdullah
-	Source	: Github
+	Resource: Github / https://github.com/sapelord/DES
 	Note	: modify, manage the program code, and implementation DES in PHP.
 */
 

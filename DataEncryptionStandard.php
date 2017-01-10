@@ -4,7 +4,7 @@
 	Date	: 11 Dec 2016
 	Author	: Moch. Zawaruddin Abdullah
 	Source	: Github
-	Note	: Modified and maintenance the code in php for better rule of algorithn and performance.
+	Note	: modify, manage the program code, and implementation DES in PHP.
 */
 
 class DataEncryptionStandard {
